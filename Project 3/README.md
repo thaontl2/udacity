@@ -13,5 +13,4 @@ Project 3_Git Commands Documentation.pdf
 ### Credits
 Git documentation
 https://www.w3schools.com/git/
-
-### Try to edit readme file
+ 
